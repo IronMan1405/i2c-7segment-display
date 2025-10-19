@@ -1,0 +1,38 @@
+# KiCad 6/7/8 files to ignore
+*.bak
+*.bck
+*.dcm
+*.net
+*.xml
+*.cmp
+*.cache
+*.tmp
+*.kicad_prl
+*-backups/
+
+# Automatically generated
+*.swp
+*.swo
+*.DS_Store
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python/Arduino build artifacts
+__pycache__/
+*.pyc
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.out
+
+# VSCode / IDE files
+.vscode/
+.idea/
+*.code-workspace
+
