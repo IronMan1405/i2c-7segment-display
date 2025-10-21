@@ -1,4 +1,4 @@
-25616463149487362
+25619975632693305
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67871,6 +67871,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MP1584EN
+SOIC127P600X170-9N
+
+
+0
+9
+9
 MT3608-Module
 MT3608_Module
 
@@ -93764,6 +93771,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SRD-05VDC-SL-C
+RELAY_SRD-05VDC-SL-C
+
+
+0
+5
+5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
