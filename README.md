@@ -1,4 +1,4 @@
-[![GitHub Repo](https://img.shields.io/badge/GitHub-I2C--7Segment--Display-181717?logo=github)](https://github.com/<your-username>/I2C-7SEGMENT-DISPLAY)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-I2C--7Segment--Display-181717?logo=github)](https://github.com/IronMan1405/i2c-7segment-display)
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20%7C%20RaspberryPi-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![KiCad](https://img.shields.io/badge/KiCad-8.0-orange)
