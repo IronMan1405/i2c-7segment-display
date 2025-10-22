@@ -29,19 +29,19 @@ It is designed for:
 
 ## 📁 Repository Structure
 
-- ['docs/photos/'](docs/photos/) – Images and assembly documentation
-- ['firmware/'](firmware/)
-    - ['arduino/'](firmware/arduino/) – Arduino source code
-    - ['raspberrypi/'](firmware/raspberrypi/) – Python or C code for Raspberry Pi
-- ['hardware/'](hardware/)
-    - ['datasheets/'](hardware/datasheets/) - Reference datasheets of HT16K33, 7-segment display
-    - ['gerber/'](/hardware/gerber/) – PCB fabrication-ready Gerber files
-    - ['i2c-7segment-display/'](hardware/i2c-7segment-display/) – KiCad schematic & PCB files
-    - ['library/'](hardware/library/)
-        - ['symbols/'](hardware/library/symbols/) – Custom HT16K33 symbol for KiCad
-- ['.gitignore'](.gitignore) – Ignored build/temp files
-- ['LICENSE'](LICENSE) - License file
-- ['README.md'](README.md) – This file 
+- [`docs/photos/`](docs/photos/) – Images and assembly documentation
+- [`firmware/`](firmware/)
+    - [`arduino/`](firmware/arduino/) – Arduino source code
+    - [`raspberrypi/`](firmware/raspberrypi/) – Python or C code for Raspberry Pi
+- [`hardware/`](hardware/)
+    - [`datasheets/`](hardware/datasheets/) - Reference datasheets of HT16K33, 7-segment display
+    - [`gerber/`](/hardware/gerber/) – PCB fabrication-ready Gerber files
+    - [`i2c-7segment-display/`](hardware/i2c-7segment-display/) – KiCad schematic & PCB files
+    - [`library/`](hardware/library/)
+        - [`symbols/`](hardware/library/symbols/) – Custom HT16K33 symbol for KiCad
+- [`.gitignore`](.gitignore) – Ignored build/temp files
+- [`LICENSE`](LICENSE) - License file
+- [`README.md`](README.md) – This file 
 
 ---
 
