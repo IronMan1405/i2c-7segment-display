@@ -148,9 +148,4 @@ email: [daksheshnankani1405@gmail.com]
 [LinkedIn](https://linkedin.com/in/dakshesh-nankani-319643377)
 ---
 
-![Platform](https://img.shields.io/badge/Platform-Arduino%20%7C%20RaspberryPi-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![KiCad](https://img.shields.io/badge/KiCad-8.0-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
 > “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
