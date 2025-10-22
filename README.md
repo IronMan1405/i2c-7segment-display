@@ -141,7 +141,8 @@ You’re free to use, modify, and distribute it with attribution.
 **Dakshesh Nankani**  
 Electronics & Robotics Enthusiast | Open Source Developer  
 
-email: [daksheshnankani1405@gmail.com]
+email: [daksheshnankani1405@gmail.com]  
+
 [LinkedIn](https://linkedin.com/in/dakshesh-nankani-319643377)
 ---
 
