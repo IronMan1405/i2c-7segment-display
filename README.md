@@ -1,4 +1,8 @@
 # I2C 7-Segment Display Module
+![Platform](https://img.shields.io/badge/Platform-Arduino%20%7C%20RaspberryPi-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![KiCad](https://img.shields.io/badge/KiCad-8.0-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 A compact **4-digit, I²C-based 7-segment display module** designed around the **HT16K33 LED driver IC**.  
 This project combines open-source **hardware**, **firmware**, and **documentation** to create a fully standalone, programmable numeric display for Arduino, ESP, and Raspberry Pi systems.
@@ -98,7 +102,7 @@ Located in `/firmware/raspberrypi/`
 ## 🛠️ Getting Started
 
 ### 1. Hardware
-- Open `/hardware/i2c-7segment-display/i2c-7segment-display.kicad_pro` in **KiCad 8**.
+- Open `/hardware/i2c-7segment-display/i2c-7segment-display.kicad_pro` in **KiCad 9**.
 - To add the custom HT16K33 symbol:
   - `Preferences → Manage Symbol Libraries → Add`
   - Select: `hardware/library/symbols/ht16k33.kicad_sym`
@@ -134,12 +138,11 @@ You’re free to use, modify, and distribute it with attribution.
 
 ## ✨ Author
 
-**[Your Name]**  
+**Dakshesh Nankani**  
 Electronics & Robotics Enthusiast | Open Source Developer  
 
-📧 [your.email@example.com]  
-🌐 [optional: GitHub / Portfolio link]
-
+email: [daksheshnankani1405@gmail.com]
+[LinkedIn](https://linkedin.com/in/dakshesh-nankani-319643377)
 ---
 
 > “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
