@@ -10,7 +10,6 @@
 *.tmp
 *.net
 *.xml
-*.csv
 *.zip
 __pycache__/
 *-cache.lib

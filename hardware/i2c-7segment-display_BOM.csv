@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D4,D1,D3,D2";"D1X8K";4;"D168K";;;
+2;"J1";"PinHeader_1x04_P2.54mm_Horizontal";1;"Conn_01x04";;;
+3;"U1";"SOP-20_7.5x12.8mm_P1.27mm";1;"~";;;
+4;"R34,R33";"R_0805_2012Metric";2;"3.3kΩ";;;
+5;"R6,R1,R5,R7,R8,R2,R3,R4";"R_0805_2012Metric";8;"220Ω";;;
